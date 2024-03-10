@@ -1,0 +1,14 @@
+D:\c#\c-lessons\lesson1\firstLesson\bin\Debug\net8.0\firstLesson.exe
+D:\c#\c-lessons\lesson1\firstLesson\bin\Debug\net8.0\firstLesson.deps.json
+D:\c#\c-lessons\lesson1\firstLesson\bin\Debug\net8.0\firstLesson.runtimeconfig.json
+D:\c#\c-lessons\lesson1\firstLesson\bin\Debug\net8.0\firstLesson.dll
+D:\c#\c-lessons\lesson1\firstLesson\bin\Debug\net8.0\firstLesson.pdb
+D:\c#\c-lessons\lesson1\firstLesson\obj\Debug\net8.0\firstLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\c-lessons\lesson1\firstLesson\obj\Debug\net8.0\firstLesson.AssemblyInfoInputs.cache
+D:\c#\c-lessons\lesson1\firstLesson\obj\Debug\net8.0\firstLesson.AssemblyInfo.cs
+D:\c#\c-lessons\lesson1\firstLesson\obj\Debug\net8.0\firstLesson.csproj.CoreCompileInputs.cache
+D:\c#\c-lessons\lesson1\firstLesson\obj\Debug\net8.0\firstLesson.dll
+D:\c#\c-lessons\lesson1\firstLesson\obj\Debug\net8.0\refint\firstLesson.dll
+D:\c#\c-lessons\lesson1\firstLesson\obj\Debug\net8.0\firstLesson.pdb
+D:\c#\c-lessons\lesson1\firstLesson\obj\Debug\net8.0\firstLesson.genruntimeconfig.cache
+D:\c#\c-lessons\lesson1\firstLesson\obj\Debug\net8.0\ref\firstLesson.dll
